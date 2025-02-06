@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1730826509 source:c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<time.h>
+	<random>
+	"Metodos.h"
+
+1729908421 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodos.h
+	<vector>
+	<iostream>
+	<cmath>
+	<algorithm>
+	"MetodosDeOrdenacao/1_Bubblesort.h"
+	"MetodosDeOrdenacao/2_Insertsort.h"
+	"MetodosDeOrdenacao/3_Selectionsort.h"
+	"MetodosDeOrdenacao/4_Shellsort.h"
+	"MetodosDeOrdenacao/5_Quicksort.h"
+	"MetodosDeOrdenacao/6_Mergesort.h"
+	"MetodosDeOrdenacao/7_Heapsort.h"
+	"MetodosDeOrdenacao/8_Radixsort.h"
+
+1729126458 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\1_bubblesort.h
+
+1729126480 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\2_insertsort.h
+
+1729126498 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\3_selectionsort.h
+
+1729126439 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\4_shellsort.h
+
+1730330874 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\5_quicksort.h
+
+1730335113 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\6_mergesort.h
+
+1730827477 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\7_heapsort.h
+
+1730331132 c:\users\gabi\desktop\topicosemalgoritmoscpp\topicoscmaismais\metodosdeordenacao\8_radixsort.h
+
